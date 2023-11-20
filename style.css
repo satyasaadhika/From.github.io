@@ -9,7 +9,10 @@
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
-       bacground-color:grey;
+     background-image: url(https://encrypted-tbn
+       0.gstatic.com/images?q=tbn:ANd9GcR7cQnrn4AjPdWzxuW8ALNGcwQJXspWfNjSEA&usqp=CAU);
+
+      
       }
       :root {
         --color-white: #f3f3f3;
@@ -31,6 +34,7 @@
         color: var(--color-white);
         margin: 0;
         background-image: url();
+         
       }
       h1 {
         font-weight: 400;
